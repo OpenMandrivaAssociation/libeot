@@ -6,7 +6,7 @@
 Name: libeot
 Version: 0.01
 # Packaged from v0.01 tag in https://github.com/umanwizard/libeot.git
-Release: 3
+Release: 4
 Source0: %{name}-%{version}.tar.xz
 Summary: Library for parsing Embedded OpenType files
 URL: https://github.com/umanwizard/libeot.git
