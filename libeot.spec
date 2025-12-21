@@ -13,6 +13,11 @@ URL: https://github.com/umanwizard/libeot.git
 License: MPL 2.0
 Group: System/Libraries
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Library for parsing Embedded OpenType (Microsoft font format) files
 
